@@ -10,9 +10,9 @@ const Login = () => {
                 <button onClick={signInWithGoogle}>Google sign in</button>
             </div>
             <form >
-                <input type="email" name="" id="" placeholder='Your email' />
+                <input type="email" name=""  placeholder='Your email' />
                 <br />
-                <input type="password" name="" id="" placeholder='Your Password' />
+                <input type="password" name=""  placeholder='Your Password' />
                 <br />
                 <input type="submit" value="Login" />
             </form>
