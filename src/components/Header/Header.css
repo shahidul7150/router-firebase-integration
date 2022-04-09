@@ -1,0 +1,12 @@
+.header{
+    margin-top: 30px;
+}
+.header nav a {
+    text-decoration: none;
+    color: black;
+    margin-right: 60px;
+    
+}
+.header nav a:hover{
+    color: goldenrod;
+}
